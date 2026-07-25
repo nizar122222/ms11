@@ -1,0 +1,6 @@
+[INFO] 22:25:18 ts-node-dev ver. 2.0.0 (using ts-node ver. 10.9.2, typescript ver. 5.9.3)
+[ERROR] 22:25:19 Error: Cannot find module 'multer-storage-cloudinary'
+Require stack:
+- C:\Users\nizar\Desktop\MS10\MS10shop\backend\src\middleware\upload.ts
+- C:\Users\nizar\Desktop\MS10\MS10shop\backend\src\routes\productRoutes.ts
+- C:\Users\nizar\Desktop\MS10\MS10shop\backend\src\index.ts

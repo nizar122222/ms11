@@ -1,0 +1,31 @@
+
+> ms10shop-frontend@1.0.0 dev
+> next dev
+
+   ▲ Next.js 15.5.21
+   - Local:        http://localhost:3000
+   - Network:      http://192.168.11.106:3000
+   - Environments: .env
+   - Experiments (use with caution):
+     · serverActions
+
+ ✓ Starting...
+ ✓ Ready in 2.9s
+ ○ Compiling / ...
+ ✓ Compiled / in 4s (1705 modules)
+ GET / 200 in 5434ms
+ ○ Compiling /_not-found ...
+ ✓ Compiled /api/teams in 2.5s (1710 modules)
+ ✓ Compiled in 2.8s (757 modules)
+ GET /images/grid.svg 404 in 6938ms
+ GET /api/products?isFeatured=true&limit=8 200 in 5164ms
+ GET /api/teams?limit=20 200 in 5206ms
+ GET /api/products?isBestSeller=true&limit=8 200 in 5242ms
+ GET /api/products?isNew=true&limit=8 200 in 5262ms
+ GET /api/products?isFeatured=true&limit=8 200 in 347ms
+ GET /api/products?isBestSeller=true&limit=8 200 in 289ms
+ GET /api/teams?limit=20 200 in 314ms
+ GET /api/products?isNew=true&limit=8 200 in 350ms
+ GET / 200 in 1746ms
+ GET /images/grid.svg 404 in 155ms
+^C
